@@ -1,3 +1,4 @@
+
 import type { Config } from "tailwindcss";
 
 export default {
@@ -61,7 +62,13 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				// Custom colors for the cargo insurance platform
+				'cargo-blue': '#0056b3',
+				'cargo-teal': '#008080',
+				'cargo-green': '#2E8B57',
+				'cargo-dark': '#1A365D',
+				'cargo-light': '#EDF2F7',
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
