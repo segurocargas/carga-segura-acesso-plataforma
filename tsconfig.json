@@ -1,1 +1,0 @@
-{ "arquivos": [], "referências": [ { "caminho": "./tsconfig.app.json" }, { "caminho": "./tsconfig.node.json" } ] }
